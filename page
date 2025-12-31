@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Last Page</title>
+    <style>
+        body {
+            background-color: #fce4ec; /* light pink background */
+            text-align: center;
+            font-family: 'Arial', sans-serif;
+            padding: 50px;
+        }
+        img {
+            max-width: 300px;
+            margin-bottom: 20px;
+            border-radius: 15px; /* thoda rounded corner */
+        }
+        h1 {
+            color: #e91e63; /* pinkish-red */
+            font-size: 2.5em;
+            margin: 20px 0 10px 0;
+        }
+        h2 {
+            color: darkviolet; /*  for happy new year */
+            font-size: 2em;
+            margin: 10px 0 30px 0;
+        }
+        p {
+            color: #555;
+            font-size: 1.2em;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Yaha apna "I Love You" image add kro -->
+    <h1>I love you Varun Betu 💋🧿</h1>
+   <center><img src="https://lh3.googleusercontent.com/rd-d/ALs6j_EQcz_7dMtTpSEKPajiQXirGDE-lzEOqn8fTLBwRu6t97GOXrgIQVJsffPwzkucQ_dUKYI8r8AiUSnatatTzh4a5ZaaBhcD_INRmvMHBq3nap6c3x7Mob0ixWWOmKXigwbbfuBtU50aL2zXoV14H4Eu6vO3YSX4JIE2X6mod-gAFIzZXuDpGCrZ-ub_DDBX63HEWZE7blMVILW9aHawXTEvvz0x-itJ5HQ90A3iNTcLVdljKxq1Lt1-cqtFQ_-fXG4zHXpRPtPMtSaayWxtYjiCV3abg7EVy5aNQS69440K1-euEeyM660ZvbjPkoQAKcwrScFH7SrEM5OM3L7rB-60n3TaGsGis1FRXlHBbewYOPfXlOV3-drl1AJKiAb-V3o0Kvpu5DgzJuB5wqw6W89eurWk-NRVfH54GJhFkO3yjYDabMV82OaphvZVPmmoZDmrxUqdQfAmlWRTMMoY2N8HzxKtLr_X25XxfR_196N_0myw6qB4DXZ5PqLU7PPOhUZoU3e7vGt2Kv8zfzQLcsvUHynPzlyp2B5mbD6hruJtYvm9oSMZiBIRM-cLkTbiiQcbES_hQgj4F9yQNlu3jdOMSOs91_dL1GN-yXstpFOiuRtXgApcGw0NCqdgCidz--urR2c9yEziJmszCrSwSL-L1MMD92R1JztbbMXS8uYjxouvClBH9vodgG6oDEVkXyF1TEBImC-4pfNz-fcqf2K2GTLg9iyad-E8e3iKK2QBMdrYabENYcFPYUF4GItLHwWrQFjz2h3jQnhcy-cE8sa-0EVpKDi-u-HpDsW8RY3NWr1UO693LELq1eCI00ehiT-scWf-SIy9TjS9TF1Zoz7gpKwPSKpEXWLzNKYu-soQSB2ZSrpgqQkWYZMQXRqNGhMlVIJtJwYhXjG3uTPmO5N0SVxi4UOJKa5iB1IefZR0plqXerAgci-gUfhIWYzZjubOpU0ZC9r5ACf-zcLMfNdqyAGYd7WaqeP8E98M6rXEluZNu5udvt_BG7R8-OgMg_J86l8=s2048?auditContext=thumbnail"></center>
+
+    <!-- Text lines -->
+    <h2>Happy New Year</h2>
+    <p>Thank you for visiting my website.</p>
+
+</body>
+</html>
